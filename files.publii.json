@@ -1,0 +1,1472 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "8319a380a508f99a1f5029ed7d4439a2"
+    },
+    {
+        "path": "a-natural-way-to-refresh-your-home-with-indoor-houseplants",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-natural-way-to-refresh-your-home-with-indoor-houseplants/index.html",
+        "type": "file",
+        "md5": "2ecf32cd41b5bd13135bf2fabb295a56"
+    },
+    {
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-us/index.html",
+        "type": "file",
+        "md5": "ece127ac40a8c5393ad0e694fdc1c9d5"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "d4e241aa96fd8231194a446287497c87"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "cb06b0bb487b5dac59c4da63c0a0b15e"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/imagesloaded.pkgd.min.js",
+        "type": "file",
+        "md5": "919bcd36ba45f4ae408e47ad200e0cc9"
+    },
+    {
+        "path": "/assets/js/masonry.pkgd.min.js",
+        "type": "file",
+        "md5": "520e46df77727aaf3d5e799ef241be02"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "6163ec009b55946ce2430d1fe34cff4d"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1b09dc64eb6086ddc9720890661ff038"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/jessica-j-sumner",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jessica-j-sumner/index.html",
+        "type": "file",
+        "md5": "d5df7e424f7b8a196ea12e67ff81a148"
+    },
+    {
+        "path": "authors/jessica-j-sumner/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/jessica-j-sumner/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jessica-j-sumner/page/2/index.html",
+        "type": "file",
+        "md5": "a7b273b058277c0d6d5f33ed5b416754"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "f22e7aee27b2a056e84b95df630ad30e"
+    },
+    {
+        "path": "create-a-relaxing-retreat-with-stylish-outdoor-garden-seating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/create-a-relaxing-retreat-with-stylish-outdoor-garden-seating/index.html",
+        "type": "file",
+        "md5": "37d5c7e3d6a230a4fd7ac383a6c453e0"
+    },
+    {
+        "path": "elegant-outdoor-furniture-for-balconies-and-terraces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-outdoor-furniture-for-balconies-and-terraces/index.html",
+        "type": "file",
+        "md5": "17a96837dd48f6e03429636b67d0ea38"
+    },
+    {
+        "path": "elevate-your-outdoor-space-with-comfort-and-contemporary-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-outdoor-space-with-comfort-and-contemporary-style/index.html",
+        "type": "file",
+        "md5": "1858bfa23031ce9b931482d90dd761e7"
+    },
+    {
+        "path": "enhance-your-garden-with-modern-landscape-and-exterior-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-garden-with-modern-landscape-and-exterior-lighting/index.html",
+        "type": "file",
+        "md5": "3ab50126ae2f2f065dc475361960cd07"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "d5937d0b3af82600163e38d8a952875d"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "335735eb7f199ee800d7fcce91cd2a39"
+    },
+    {
+        "path": "garden-benches-create-a-welcoming-outdoor-space-with-timeless-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/garden-benches-create-a-welcoming-outdoor-space-with-timeless-style/index.html",
+        "type": "file",
+        "md5": "549c03cced12d44416e13be3335045ea"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "8753e78d092c39d84230470b2cb64944"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/f.jpg",
+        "type": "file",
+        "md5": "66ece7d415d7d2e851ca6339f0c90f21"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/f-lg.jpg",
+        "type": "file",
+        "md5": "50d3719f333550a7a2ef3a3dbca840fd"
+    },
+    {
+        "path": "/media/posts/10/responsive/f-md.jpg",
+        "type": "file",
+        "md5": "50d3719f333550a7a2ef3a3dbca840fd"
+    },
+    {
+        "path": "/media/posts/10/responsive/f-sm.jpg",
+        "type": "file",
+        "md5": "50d3719f333550a7a2ef3a3dbca840fd"
+    },
+    {
+        "path": "/media/posts/10/responsive/f-xs.jpg",
+        "type": "file",
+        "md5": "ffe0a2632ba0de39bdccad8fbf76b6f7"
+    },
+    {
+        "path": "/media/posts/10/responsive/v-md.jpg",
+        "type": "file",
+        "md5": "b4c90790ae4d666e43ecdd2e8440bd76"
+    },
+    {
+        "path": "/media/posts/10/responsive/v-sm.jpg",
+        "type": "file",
+        "md5": "1a8ab803859774afd2a8cae385bd7cd4"
+    },
+    {
+        "path": "/media/posts/10/responsive/v-xs.jpg",
+        "type": "file",
+        "md5": "c2de952fa06f679c8ba04760859f06d7"
+    },
+    {
+        "path": "/media/posts/10/v.jpg",
+        "type": "file",
+        "md5": "e0eee032eb1cfa19ac9696573014e18d"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/images-2.jpg",
+        "type": "file",
+        "md5": "310b43f0ff1432331d5fe3cecc494126"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2-md.jpg",
+        "type": "file",
+        "md5": "0640a584367a55a0728400cfaf93558f"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2-sm.jpg",
+        "type": "file",
+        "md5": "149803cee5fa8c9778285956f47f847c"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2-xs.jpg",
+        "type": "file",
+        "md5": "0f2339dadb4b0f128acc6cbef206b215"
+    },
+    {
+        "path": "/media/posts/11/responsive/sd-lg.jpg",
+        "type": "file",
+        "md5": "24ad1da07ddb1d0e87936129f69487f2"
+    },
+    {
+        "path": "/media/posts/11/responsive/sd-md.jpg",
+        "type": "file",
+        "md5": "24ad1da07ddb1d0e87936129f69487f2"
+    },
+    {
+        "path": "/media/posts/11/responsive/sd-sm.jpg",
+        "type": "file",
+        "md5": "df17428f291160413ea00dbd99aeadbb"
+    },
+    {
+        "path": "/media/posts/11/responsive/sd-xs.jpg",
+        "type": "file",
+        "md5": "9debba879e4d6c076d7315998380593f"
+    },
+    {
+        "path": "/media/posts/11/sd.jpg",
+        "type": "file",
+        "md5": "065166597420d0914e804f921c5187d1"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/bv.jpg",
+        "type": "file",
+        "md5": "6272751fcf512e89acce018495e0726d"
+    },
+    {
+        "path": "/media/posts/12/c.jpg",
+        "type": "file",
+        "md5": "37e40540dc3c818f566cffbdb3e950b8"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/bv-md.jpg",
+        "type": "file",
+        "md5": "5fb1d77103785d924ba834c10c83b30b"
+    },
+    {
+        "path": "/media/posts/12/responsive/bv-sm.jpg",
+        "type": "file",
+        "md5": "5fb1d77103785d924ba834c10c83b30b"
+    },
+    {
+        "path": "/media/posts/12/responsive/bv-xs.jpg",
+        "type": "file",
+        "md5": "5fb1d77103785d924ba834c10c83b30b"
+    },
+    {
+        "path": "/media/posts/12/responsive/c-lg.jpg",
+        "type": "file",
+        "md5": "26d6a9205010a6f72e61199ce3a3b254"
+    },
+    {
+        "path": "/media/posts/12/responsive/c-md.jpg",
+        "type": "file",
+        "md5": "26d6a9205010a6f72e61199ce3a3b254"
+    },
+    {
+        "path": "/media/posts/12/responsive/c-sm.jpg",
+        "type": "file",
+        "md5": "26d6a9205010a6f72e61199ce3a3b254"
+    },
+    {
+        "path": "/media/posts/12/responsive/c-xs.jpg",
+        "type": "file",
+        "md5": "85280d365370a8ca7b2ddd2490c19a1e"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/images-3.jpg",
+        "type": "file",
+        "md5": "939ab9d73c16170b17a72215102b6e04"
+    },
+    {
+        "path": "/media/posts/13/images-4.jpg",
+        "type": "file",
+        "md5": "8759c7d9e3772cdcc3e1de2610c2b42c"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/images-3-lg.jpg",
+        "type": "file",
+        "md5": "957bc2e360121bbd832f978dc84e4505"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-3-md.jpg",
+        "type": "file",
+        "md5": "957bc2e360121bbd832f978dc84e4505"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-3-sm.jpg",
+        "type": "file",
+        "md5": "0868daad6ea530f24ed266aead9aff78"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-3-xs.jpg",
+        "type": "file",
+        "md5": "bae25ad4527cd8806104b6470268ca30"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-4-md.jpg",
+        "type": "file",
+        "md5": "a3d869925bd9f940330367231f59122b"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-4-sm.jpg",
+        "type": "file",
+        "md5": "a3d869925bd9f940330367231f59122b"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-4-xs.jpg",
+        "type": "file",
+        "md5": "8d7a61592f60abdd3118d06b923c4f5e"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/fv.jpg",
+        "type": "file",
+        "md5": "1248a8c18f1fd2e1119ee0c683e15e01"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/fv-lg.jpg",
+        "type": "file",
+        "md5": "eb431829ed70eee251231ec504bd2e81"
+    },
+    {
+        "path": "/media/posts/14/responsive/fv-md.jpg",
+        "type": "file",
+        "md5": "eb431829ed70eee251231ec504bd2e81"
+    },
+    {
+        "path": "/media/posts/14/responsive/fv-sm.jpg",
+        "type": "file",
+        "md5": "eb431829ed70eee251231ec504bd2e81"
+    },
+    {
+        "path": "/media/posts/14/responsive/fv-xs.jpg",
+        "type": "file",
+        "md5": "6698bf6ca206c59167eb210f0c02f1fc"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/f.jpg",
+        "type": "file",
+        "md5": "970e0b1e4d9c9c7b2f7e1ccf57aa4a3a"
+    },
+    {
+        "path": "/media/posts/15/g.jpg",
+        "type": "file",
+        "md5": "041ba76092145dfd7574677a34865b45"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/f-md.jpg",
+        "type": "file",
+        "md5": "69c40564e5a8d092eda2979076e22f9c"
+    },
+    {
+        "path": "/media/posts/15/responsive/f-sm.jpg",
+        "type": "file",
+        "md5": "69c40564e5a8d092eda2979076e22f9c"
+    },
+    {
+        "path": "/media/posts/15/responsive/f-xs.jpg",
+        "type": "file",
+        "md5": "69c40564e5a8d092eda2979076e22f9c"
+    },
+    {
+        "path": "/media/posts/15/responsive/g-lg.jpg",
+        "type": "file",
+        "md5": "23501bb8bf5390c83fb0b0e32ba4694d"
+    },
+    {
+        "path": "/media/posts/15/responsive/g-md.jpg",
+        "type": "file",
+        "md5": "23501bb8bf5390c83fb0b0e32ba4694d"
+    },
+    {
+        "path": "/media/posts/15/responsive/g-sm.jpg",
+        "type": "file",
+        "md5": "4610f6250c7c759342667f3d89719110"
+    },
+    {
+        "path": "/media/posts/15/responsive/g-xs.jpg",
+        "type": "file",
+        "md5": "2708101143884588bac4c4bfb1ddd2d3"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/d.jpg",
+        "type": "file",
+        "md5": "20bbc1bf385575d175fbf7695c98a67d"
+    },
+    {
+        "path": "/media/posts/16/g.jpg",
+        "type": "file",
+        "md5": "56ff71183b63aaf716151fe44de1fd4d"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/d-lg.jpg",
+        "type": "file",
+        "md5": "9b4b122c7dd72c573810d4de6728dcb9"
+    },
+    {
+        "path": "/media/posts/16/responsive/d-md.jpg",
+        "type": "file",
+        "md5": "9b4b122c7dd72c573810d4de6728dcb9"
+    },
+    {
+        "path": "/media/posts/16/responsive/d-sm.jpg",
+        "type": "file",
+        "md5": "9b4b122c7dd72c573810d4de6728dcb9"
+    },
+    {
+        "path": "/media/posts/16/responsive/d-xs.jpg",
+        "type": "file",
+        "md5": "27522185e99e327a17de17edb879adfb"
+    },
+    {
+        "path": "/media/posts/16/responsive/g-md.jpg",
+        "type": "file",
+        "md5": "1e01f92b86c74fd7f7395a7978e5ad86"
+    },
+    {
+        "path": "/media/posts/16/responsive/g-sm.jpg",
+        "type": "file",
+        "md5": "1e01f92b86c74fd7f7395a7978e5ad86"
+    },
+    {
+        "path": "/media/posts/16/responsive/g-xs.jpg",
+        "type": "file",
+        "md5": "12d6f91009bb3938dbc196b53e300249"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/f.jpg",
+        "type": "file",
+        "md5": "236b1c28afdce40a09691fde60679a21"
+    },
+    {
+        "path": "/media/posts/17/g.jpg",
+        "type": "file",
+        "md5": "df630baad85e9fde1528f0621d92e3f3"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/f-md.jpg",
+        "type": "file",
+        "md5": "c782a10e42609b07b5908f71700097c9"
+    },
+    {
+        "path": "/media/posts/17/responsive/f-sm.jpg",
+        "type": "file",
+        "md5": "d21fd71be27144fa09f811373af8369b"
+    },
+    {
+        "path": "/media/posts/17/responsive/f-xs.jpg",
+        "type": "file",
+        "md5": "a2725481af057c5b2d0476b288afbc61"
+    },
+    {
+        "path": "/media/posts/17/responsive/g-lg.jpg",
+        "type": "file",
+        "md5": "f94bfaa8aef4edea372773ea3e688067"
+    },
+    {
+        "path": "/media/posts/17/responsive/g-md.jpg",
+        "type": "file",
+        "md5": "f94bfaa8aef4edea372773ea3e688067"
+    },
+    {
+        "path": "/media/posts/17/responsive/g-sm.jpg",
+        "type": "file",
+        "md5": "f94bfaa8aef4edea372773ea3e688067"
+    },
+    {
+        "path": "/media/posts/17/responsive/g-xs.jpg",
+        "type": "file",
+        "md5": "f94bfaa8aef4edea372773ea3e688067"
+    },
+    {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/n.jpg",
+        "type": "file",
+        "md5": "df9d3ed159cd5993ab7a913cf0aab918"
+    },
+    {
+        "path": "media/posts/18/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/responsive/n-md.jpg",
+        "type": "file",
+        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+    },
+    {
+        "path": "/media/posts/18/responsive/n-sm.jpg",
+        "type": "file",
+        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+    },
+    {
+        "path": "/media/posts/18/responsive/n-xs.jpg",
+        "type": "file",
+        "md5": "62c8e43e3832acb77af9686048da6ff6"
+    },
+    {
+        "path": "/media/posts/18/responsive/v-lg.jpg",
+        "type": "file",
+        "md5": "b79c12da58f526e1c7a74a72a2bf2025"
+    },
+    {
+        "path": "/media/posts/18/responsive/v-md.jpg",
+        "type": "file",
+        "md5": "b79c12da58f526e1c7a74a72a2bf2025"
+    },
+    {
+        "path": "/media/posts/18/responsive/v-sm.jpg",
+        "type": "file",
+        "md5": "be95b0abb0ce9018a8c410c227907b9f"
+    },
+    {
+        "path": "/media/posts/18/responsive/v-xs.jpg",
+        "type": "file",
+        "md5": "aaae2636026abd0e873ed070c2b104f0"
+    },
+    {
+        "path": "/media/posts/18/v.jpg",
+        "type": "file",
+        "md5": "5b2ae5442ee265bcad2431fb9434a576"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/g.jpg",
+        "type": "file",
+        "md5": "59155ec3858ddb409be107be3411865e"
+    },
+    {
+        "path": "/media/posts/19/n.jpg",
+        "type": "file",
+        "md5": "df9d3ed159cd5993ab7a913cf0aab918"
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/g-lg.jpg",
+        "type": "file",
+        "md5": "6a2346880947af2fa2422e0015e4c6a2"
+    },
+    {
+        "path": "/media/posts/19/responsive/g-md.jpg",
+        "type": "file",
+        "md5": "6a2346880947af2fa2422e0015e4c6a2"
+    },
+    {
+        "path": "/media/posts/19/responsive/g-sm.jpg",
+        "type": "file",
+        "md5": "8dcf51370b8441b4391f2709595b6f4c"
+    },
+    {
+        "path": "/media/posts/19/responsive/g-xs.jpg",
+        "type": "file",
+        "md5": "a0f4ca0ad8bdb6d4257e2b7109613cf8"
+    },
+    {
+        "path": "/media/posts/19/responsive/n-md.jpg",
+        "type": "file",
+        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+    },
+    {
+        "path": "/media/posts/19/responsive/n-sm.jpg",
+        "type": "file",
+        "md5": "1b2e1db2529c145174e0f11d9b3968a0"
+    },
+    {
+        "path": "/media/posts/19/responsive/n-xs.jpg",
+        "type": "file",
+        "md5": "62c8e43e3832acb77af9686048da6ff6"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/g.jpg",
+        "type": "file",
+        "md5": "cf76606cb78bc2095e2b73cd227d7f6e"
+    },
+    {
+        "path": "/media/posts/4/h.jpg",
+        "type": "file",
+        "md5": "4b95b282bdd48953536df81ddf9f5640"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/g-lg.jpg",
+        "type": "file",
+        "md5": "06efa0aa81e3e6d2d8ac673090d60b2d"
+    },
+    {
+        "path": "/media/posts/4/responsive/g-md.jpg",
+        "type": "file",
+        "md5": "06efa0aa81e3e6d2d8ac673090d60b2d"
+    },
+    {
+        "path": "/media/posts/4/responsive/g-sm.jpg",
+        "type": "file",
+        "md5": "53305b3db79764798d408504052c1062"
+    },
+    {
+        "path": "/media/posts/4/responsive/g-xs.jpg",
+        "type": "file",
+        "md5": "76f9c32610a70d62cf44c7dd47d5518a"
+    },
+    {
+        "path": "/media/posts/4/responsive/h-md.jpg",
+        "type": "file",
+        "md5": "d92ef38e87bdc13e74ae672c4c0c7e8f"
+    },
+    {
+        "path": "/media/posts/4/responsive/h-sm.jpg",
+        "type": "file",
+        "md5": "d92ef38e87bdc13e74ae672c4c0c7e8f"
+    },
+    {
+        "path": "/media/posts/4/responsive/h-xs.jpg",
+        "type": "file",
+        "md5": "a14455d54e2dd3a6538e9b024e248861"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gy.jpg",
+        "type": "file",
+        "md5": "7a1b0b2b4492a8a0fd1c8fe17dbfb04a"
+    },
+    {
+        "path": "/media/posts/5/km.jpg",
+        "type": "file",
+        "md5": "23825e2ace40810aee693a3be4c8e653"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/gy-lg.jpg",
+        "type": "file",
+        "md5": "4b0f2dce03f5a5f791d0e80462438684"
+    },
+    {
+        "path": "/media/posts/5/responsive/gy-md.jpg",
+        "type": "file",
+        "md5": "4b0f2dce03f5a5f791d0e80462438684"
+    },
+    {
+        "path": "/media/posts/5/responsive/gy-sm.jpg",
+        "type": "file",
+        "md5": "4b0f2dce03f5a5f791d0e80462438684"
+    },
+    {
+        "path": "/media/posts/5/responsive/gy-xs.jpg",
+        "type": "file",
+        "md5": "e60c604b766f03d6d06ea0e6ff85d92c"
+    },
+    {
+        "path": "/media/posts/5/responsive/km-md.jpg",
+        "type": "file",
+        "md5": "edcf08dc232ac273062862502e4546ba"
+    },
+    {
+        "path": "/media/posts/5/responsive/km-sm.jpg",
+        "type": "file",
+        "md5": "edcf08dc232ac273062862502e4546ba"
+    },
+    {
+        "path": "/media/posts/5/responsive/km-xs.jpg",
+        "type": "file",
+        "md5": "70c5d04d88c8eae9dadf8519fd15626d"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/j.jpg",
+        "type": "file",
+        "md5": "f77d6ede987e8bb9db4580f642a8efe6"
+    },
+    {
+        "path": "/media/posts/6/ji.jpg",
+        "type": "file",
+        "md5": "ac43130e4f8a69ab7ac9eae01ef19f4b"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/j-lg.jpg",
+        "type": "file",
+        "md5": "a14adb4fd5936df9c35f4629c08c7d1a"
+    },
+    {
+        "path": "/media/posts/6/responsive/j-md.jpg",
+        "type": "file",
+        "md5": "a14adb4fd5936df9c35f4629c08c7d1a"
+    },
+    {
+        "path": "/media/posts/6/responsive/j-sm.jpg",
+        "type": "file",
+        "md5": "2721fe44e7942c87fc90c5eaec430602"
+    },
+    {
+        "path": "/media/posts/6/responsive/j-xs.jpg",
+        "type": "file",
+        "md5": "91bb92977085ea7fe3715aa8e47c761d"
+    },
+    {
+        "path": "/media/posts/6/responsive/ji-md.jpg",
+        "type": "file",
+        "md5": "f1afbe3318f0237d85ad84bc20cc34b7"
+    },
+    {
+        "path": "/media/posts/6/responsive/ji-sm.jpg",
+        "type": "file",
+        "md5": "f1afbe3318f0237d85ad84bc20cc34b7"
+    },
+    {
+        "path": "/media/posts/6/responsive/ji-xs.jpg",
+        "type": "file",
+        "md5": "25359839477a80b98122e0db88758d23"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/hj.jpg",
+        "type": "file",
+        "md5": "bb4454b3dc3ab20befb8cb8bc22b9e45"
+    },
+    {
+        "path": "/media/posts/7/jn.jpg",
+        "type": "file",
+        "md5": "2a67aa5ce650d729bd71e97cba2ed580"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/hj-lg.jpg",
+        "type": "file",
+        "md5": "fe88416a7c695759c182e56756ac624e"
+    },
+    {
+        "path": "/media/posts/7/responsive/hj-md.jpg",
+        "type": "file",
+        "md5": "fe88416a7c695759c182e56756ac624e"
+    },
+    {
+        "path": "/media/posts/7/responsive/hj-sm.jpg",
+        "type": "file",
+        "md5": "004c8a37cd999323c86ec35f1bf388c2"
+    },
+    {
+        "path": "/media/posts/7/responsive/hj-xs.jpg",
+        "type": "file",
+        "md5": "11dd754955bbdc09c61511d5880ce68e"
+    },
+    {
+        "path": "/media/posts/7/responsive/jn-md.jpg",
+        "type": "file",
+        "md5": "533f58ea9fb92a46c6ce79de6a75022b"
+    },
+    {
+        "path": "/media/posts/7/responsive/jn-sm.jpg",
+        "type": "file",
+        "md5": "533f58ea9fb92a46c6ce79de6a75022b"
+    },
+    {
+        "path": "/media/posts/7/responsive/jn-xs.jpg",
+        "type": "file",
+        "md5": "a4f8e9243dbb5549065ef02ead08eb89"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/hj.jpg",
+        "type": "file",
+        "md5": "675bc1ec6c977bccc2f29f58b772549d"
+    },
+    {
+        "path": "/media/posts/8/ijk.jpg",
+        "type": "file",
+        "md5": "ca0e4b7b31438026cb911c474fb9e537"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/hj-md.jpg",
+        "type": "file",
+        "md5": "38a8c1d0910c9f2042309ee9644db188"
+    },
+    {
+        "path": "/media/posts/8/responsive/hj-sm.jpg",
+        "type": "file",
+        "md5": "38a8c1d0910c9f2042309ee9644db188"
+    },
+    {
+        "path": "/media/posts/8/responsive/hj-xs.jpg",
+        "type": "file",
+        "md5": "242bec2294a91db52cf6b2989bf46006"
+    },
+    {
+        "path": "/media/posts/8/responsive/ijk-lg.jpg",
+        "type": "file",
+        "md5": "41c86782c84159db4ca91dce861365b4"
+    },
+    {
+        "path": "/media/posts/8/responsive/ijk-md.jpg",
+        "type": "file",
+        "md5": "41c86782c84159db4ca91dce861365b4"
+    },
+    {
+        "path": "/media/posts/8/responsive/ijk-sm.jpg",
+        "type": "file",
+        "md5": "83a2ea04902737c3e6c90ee6dcd88daf"
+    },
+    {
+        "path": "/media/posts/8/responsive/ijk-xs.jpg",
+        "type": "file",
+        "md5": "16e820ce3826cac16c6b1d71a8968f84"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/d.jpg",
+        "type": "file",
+        "md5": "da9489d3639930fafe441ee19d6ed037"
+    },
+    {
+        "path": "/media/posts/9/ef.jpg",
+        "type": "file",
+        "md5": "41c43705a4ac5bbd0f0bd96ac2d28b60"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/d-lg.jpg",
+        "type": "file",
+        "md5": "a75c1e077e5d02a350b8e3c5ee6f4408"
+    },
+    {
+        "path": "/media/posts/9/responsive/d-md.jpg",
+        "type": "file",
+        "md5": "a75c1e077e5d02a350b8e3c5ee6f4408"
+    },
+    {
+        "path": "/media/posts/9/responsive/d-sm.jpg",
+        "type": "file",
+        "md5": "a75c1e077e5d02a350b8e3c5ee6f4408"
+    },
+    {
+        "path": "/media/posts/9/responsive/d-xs.jpg",
+        "type": "file",
+        "md5": "9eae2e9487a3598fc06ae89ca8c97533"
+    },
+    {
+        "path": "/media/posts/9/responsive/ef-md.jpg",
+        "type": "file",
+        "md5": "b5d677090c2957495c4b4ae730eaa082"
+    },
+    {
+        "path": "/media/posts/9/responsive/ef-sm.jpg",
+        "type": "file",
+        "md5": "d215c1d4de27f5820cb13b77d4585181"
+    },
+    {
+        "path": "/media/posts/9/responsive/ef-xs.jpg",
+        "type": "file",
+        "md5": "1fdead8f5823355b6a6451e8b7ac2224"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/outdoor-and-garden-logo.png",
+        "type": "file",
+        "md5": "568b372c4b51dfff7ff3c20788e84405"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/outdoor-and-garden-logo-2xl.png",
+        "type": "file",
+        "md5": "b3355d80d153ba1ad16cc532f5547d89"
+    },
+    {
+        "path": "/media/website/responsive/outdoor-and-garden-logo-lg.png",
+        "type": "file",
+        "md5": "b3355d80d153ba1ad16cc532f5547d89"
+    },
+    {
+        "path": "/media/website/responsive/outdoor-and-garden-logo-md.png",
+        "type": "file",
+        "md5": "31d9fd3607683f0de3e125d50374a90f"
+    },
+    {
+        "path": "/media/website/responsive/outdoor-and-garden-logo-sm.png",
+        "type": "file",
+        "md5": "90eb2175526b54233162b25232cdb068"
+    },
+    {
+        "path": "/media/website/responsive/outdoor-and-garden-logo-xl.png",
+        "type": "file",
+        "md5": "b3355d80d153ba1ad16cc532f5547d89"
+    },
+    {
+        "path": "/media/website/responsive/outdoor-and-garden-logo-xs.png",
+        "type": "file",
+        "md5": "fd88e460b7abb89d3960a4ddc6fefe19"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "f7997d0baff0e0f2a02d49b3cebf9ae3"
+    },
+    {
+        "path": "privacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/privacy-policy/index.html",
+        "type": "file",
+        "md5": "f956642b9c1b611f5f81dd83366454a0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "38a1f6b377ca614d0010ba625e1079cc"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "ab39c82eb0aeaccb64decc88517efcf6"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "snake-plants-a-practical-guide-to-beautiful-and-resilient-indoor-houseplants",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/snake-plants-a-practical-guide-to-beautiful-and-resilient-indoor-houseplants/index.html",
+        "type": "file",
+        "md5": "5e47feefc3f49218ee5a149ca1485b79"
+    },
+    {
+        "path": "string-lights-stylish-outdoor-illumination-for-every-landscape",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/string-lights-stylish-outdoor-illumination-for-every-landscape/index.html",
+        "type": "file",
+        "md5": "61f243f786d7ecb53370e67b19d023d9"
+    },
+    {
+        "path": "stylish-solutions-for-landscape-and-exterior-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stylish-solutions-for-landscape-and-exterior-lighting/index.html",
+        "type": "file",
+        "md5": "3775452dd914889fe9d3eda4342d3e21"
+    },
+    {
+        "path": "succulents-a-natural-touch-of-style-for-modern-indoor-houseplants",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/succulents-a-natural-touch-of-style-for-modern-indoor-houseplants/index.html",
+        "type": "file",
+        "md5": "153d129305b7610b0b90d0a6f2b3dec8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/balcony-and-terrace-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/balcony-and-terrace-furniture/index.html",
+        "type": "file",
+        "md5": "6808354a492fff61383ee3279b5d0566"
+    },
+    {
+        "path": "tags/balcony-shelves",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/balcony-shelves/index.html",
+        "type": "file",
+        "md5": "7eb58106e7de954aa628af362d7d5e95"
+    },
+    {
+        "path": "tags/compact-bistro-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/compact-bistro-sets/index.html",
+        "type": "file",
+        "md5": "46a3f9f538f5bfb291bb15de88b69a7c"
+    },
+    {
+        "path": "tags/folding-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/folding-tables/index.html",
+        "type": "file",
+        "md5": "969987ff2a790ba459789bfc5943ec6e"
+    },
+    {
+        "path": "tags/garden-benches",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/garden-benches/index.html",
+        "type": "file",
+        "md5": "d8095f198cc8d0c6aad563462961f13f"
+    },
+    {
+        "path": "tags/hanging-chairs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/hanging-chairs/index.html",
+        "type": "file",
+        "md5": "92967540fb793cf7cbba38bac0651b80"
+    },
+    {
+        "path": "tags/hanging-planters",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/hanging-planters/index.html",
+        "type": "file",
+        "md5": "5f247ad8401b54374aa254b3a8ae46ea"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "2b429000ae2440b45ac8456424f70e1f"
+    },
+    {
+        "path": "tags/indoor-houseplants",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/indoor-houseplants/index.html",
+        "type": "file",
+        "md5": "30c0182f600ec96a92e360cf5c0f33ba"
+    },
+    {
+        "path": "tags/landscape-and-exterior-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/landscape-and-exterior-lighting/index.html",
+        "type": "file",
+        "md5": "acfcb345278661a0b47983c5a5458fcf"
+    },
+    {
+        "path": "tags/outdoor-garden-seating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/outdoor-garden-seating/index.html",
+        "type": "file",
+        "md5": "4ba9ebd97b4d755672b4bbc9a0197b7c"
+    },
+    {
+        "path": "tags/pathway-lights",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/pathway-lights/index.html",
+        "type": "file",
+        "md5": "13e3818f83ce09bc3ff7ccdd4d6e94e7"
+    },
+    {
+        "path": "tags/potted-palms",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/potted-palms/index.html",
+        "type": "file",
+        "md5": "f6bf8dec1b5893e256c40e40af6b623e"
+    },
+    {
+        "path": "tags/rattan-sectionals",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/rattan-sectionals/index.html",
+        "type": "file",
+        "md5": "951d7fc09467a27a9220ee40b016cafa"
+    },
+    {
+        "path": "tags/snake-plants",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/snake-plants/index.html",
+        "type": "file",
+        "md5": "d186e17f9034e16f75158b3617c92662"
+    },
+    {
+        "path": "tags/solar-spotlights",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/solar-spotlights/index.html",
+        "type": "file",
+        "md5": "3964ed730601c469214d528f5c662a3d"
+    },
+    {
+        "path": "tags/string-lights",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/string-lights/index.html",
+        "type": "file",
+        "md5": "544e8af2d0a492cdd4caeb1141199f7f"
+    },
+    {
+        "path": "tags/succulents",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/succulents/index.html",
+        "type": "file",
+        "md5": "85f8cda6c3c91b6d6646483f229da7c9"
+    },
+    {
+        "path": "tags/sun-loungers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/sun-loungers/index.html",
+        "type": "file",
+        "md5": "78c79702b57db70cda13ade9fa964add"
+    },
+    {
+        "path": "tags/wall-sconces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wall-sconces/index.html",
+        "type": "file",
+        "md5": "4426c0911cd0b93e75d9474479533570"
+    },
+    {
+        "path": "tags/weatherproof-sofas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/weatherproof-sofas/index.html",
+        "type": "file",
+        "md5": "8bf57b1e23ba12c54f1910c4df0107e5"
+    },
+    {
+        "path": "transform-your-balcony-into-an-organized-and-beautiful-outdoor-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-balcony-into-an-organized-and-beautiful-outdoor-space/index.html",
+        "type": "file",
+        "md5": "719dc7321ccbda730eb9bc4a2b2a9497"
+    },
+    {
+        "path": "transform-your-garden-into-a-comfortable-outdoor-living-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-garden-into-a-comfortable-outdoor-living-space/index.html",
+        "type": "file",
+        "md5": "b4cba257b249a25b7afd6cbe0ededf5f"
+    },
+    {
+        "path": "transform-your-home-with-creative-indoor-houseplants-displays",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-home-with-creative-indoor-houseplants-displays/index.html",
+        "type": "file",
+        "md5": "1dbe5831f5d11f35929f6e1da7941124"
+    },
+    {
+        "path": "versatile-furniture-for-modern-balconies-and-terraces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/versatile-furniture-for-modern-balconies-and-terraces/index.html",
+        "type": "file",
+        "md5": "18bd24646ff258f54a98006e4d14dad4"
+    },
+    {
+        "path": "wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting/index.html",
+        "type": "file",
+        "md5": "6ab4efeacf631714b8a62b7c7665f529"
+    },
+    {
+        "path": "weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area/index.html",
+        "type": "file",
+        "md5": "0e3486569023041291e3825401b215cd"
+    }
+]
