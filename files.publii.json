@@ -12,7 +12,7 @@
     {
         "path": "/a-natural-way-to-refresh-your-home-with-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "ab0c4d7ab376ca787d8e987bf704224f"
+        "md5": "be5fd8eddb13ffd66490d2330208e899"
     },
     {
         "path": "about-us",
@@ -112,7 +112,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "41dd92771217ed8f57c845708ed2aaf3"
+        "md5": "72c617b9996212c44522c0dd2bd5979c"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "57003966cf7c4c36fcbc5b5dbd92a1a0"
+        "md5": "0e1f9f3ceb88e4c086ba80075c563621"
     },
     {
         "path": "contact-us",
@@ -182,12 +182,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0e6ddd2ad0b0cb493d93b9d27133e019"
+        "md5": "706ec01be513774ac45b66cb6c882c4b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ef81d2aa9546420665cce8eff2489f6b"
+        "md5": "24112feb06bda92fc30c430789024081"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -197,7 +197,7 @@
     {
         "path": "/folding-tables-smart-space-saving-furniture-for-balconies-and-terraces/index.html",
         "type": "file",
-        "md5": "854516c472253ff0ea53bf74d7c2157a"
+        "md5": "13668c1ca518cd8605a52fc4db075b89"
     },
     {
         "path": "garden-benches-create-a-welcoming-outdoor-space-with-timeless-style",
@@ -212,7 +212,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1f305f1029a22dc2679c1a9db91b0a53"
+        "md5": "87ce435e245f6da5a34452448ebf1499"
     },
     {
         "path": "media",
@@ -810,6 +810,61 @@
         "md5": "2969e3607f73457a6fdfb1e6fe462997"
     },
     {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-98-2.jpg",
+        "type": "file",
+        "md5": "a5b6b6054f49529eea1f75e5c29d4598"
+    },
+    {
+        "path": "/media/posts/21/images-99.jpg",
+        "type": "file",
+        "md5": "2efe1083186b91bf11605cf31603fe3a"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-98-2-md.jpg",
+        "type": "file",
+        "md5": "ab93d3be3a10bf1067beaafe14dd83bd"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-98-2-sm.jpg",
+        "type": "file",
+        "md5": "ab93d3be3a10bf1067beaafe14dd83bd"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-98-2-xs.jpg",
+        "type": "file",
+        "md5": "1166b75e0ba2541548f2f83881a2b930"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-99-lg.jpg",
+        "type": "file",
+        "md5": "ec5d7131c5dd8997d2fb4f652b2a0de6"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-99-md.jpg",
+        "type": "file",
+        "md5": "ec5d7131c5dd8997d2fb4f652b2a0de6"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-99-sm.jpg",
+        "type": "file",
+        "md5": "cf787494de52b7d90e27562b0b3b36ca"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-99-xs.jpg",
+        "type": "file",
+        "md5": "85b9e4ab8cd69e6da0cfde01e9f82e3a"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1197,7 +1252,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b20638214356305ff89d6f7ccc2a8e87"
+        "md5": "6cc65fc11571e3061da0f7558edac89f"
+    },
+    {
+        "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants/index.html",
+        "type": "file",
+        "md5": "e4a8c9ee012ee44f856f3e6d429c4f46"
     },
     {
         "path": "privacy-policy",
@@ -1217,7 +1282,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "053641d0163225f71507af15234e34b9"
+        "md5": "256675a08df3e9bf4995ab61bc676836"
     },
     {
         "path": "sitemap.xsl",
@@ -1232,7 +1297,7 @@
     {
         "path": "/snake-plants-a-practical-guide-to-beautiful-and-resilient-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "5759db091d519ff8629799a28500ee35"
+        "md5": "14f0b4fd35f88eed7e04c0713b18d63a"
     },
     {
         "path": "string-lights-stylish-outdoor-illumination-for-every-landscape",
@@ -1262,7 +1327,7 @@
     {
         "path": "/succulents-a-natural-touch-of-style-for-modern-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "b75874c3675dea3be4336848914a1da7"
+        "md5": "5876c6fee551ad4aa93d76a8f8952973"
     },
     {
         "path": "tags",
@@ -1342,7 +1407,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "53f3bcba201a32c6e4797dff448132a1"
+        "md5": "527db7b7fa75ff2142e707589cbbf54a"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -1352,7 +1417,7 @@
     {
         "path": "/tags/indoor-houseplants/index.html",
         "type": "file",
-        "md5": "30c0182f600ec96a92e360cf5c0f33ba"
+        "md5": "8e27edf05a8b98a3998f40af26030fba"
     },
     {
         "path": "tags/landscape-and-exterior-lighting",
@@ -1392,7 +1457,7 @@
     {
         "path": "/tags/potted-palms/index.html",
         "type": "file",
-        "md5": "f6bf8dec1b5893e256c40e40af6b623e"
+        "md5": "cc6194f5bef605dbef558574aaed48b4"
     },
     {
         "path": "tags/rattan-sectionals",
@@ -1502,7 +1567,7 @@
     {
         "path": "/transform-your-home-with-creative-indoor-houseplants-displays/index.html",
         "type": "file",
-        "md5": "c4a0429642ee7fb3f1282520362cd892"
+        "md5": "fca8887009ef70ff2b64e89be55dbfaf"
     },
     {
         "path": "versatile-furniture-for-modern-balconies-and-terraces",
