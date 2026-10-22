@@ -112,7 +112,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "72c617b9996212c44522c0dd2bd5979c"
+        "md5": "4b37b21bb3e3436d7b83a274d5671ea9"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "0e1f9f3ceb88e4c086ba80075c563621"
+        "md5": "fdee5fef49da2c302d0f041311406766"
     },
     {
         "path": "contact-us",
@@ -157,7 +157,7 @@
     {
         "path": "/elegant-outdoor-furniture-for-balconies-and-terraces/index.html",
         "type": "file",
-        "md5": "00d0cbd3a6823672aada49657b04b2da"
+        "md5": "f24fecdb639ab03c7d3011bde44b1dab"
     },
     {
         "path": "elevate-your-outdoor-space-with-comfort-and-contemporary-style",
@@ -182,12 +182,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "706ec01be513774ac45b66cb6c882c4b"
+        "md5": "f5c30b05d63dc98fbf6f2e17fed9b640"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "24112feb06bda92fc30c430789024081"
+        "md5": "140a25b5924797b8523978c85e578e03"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -197,7 +197,7 @@
     {
         "path": "/folding-tables-smart-space-saving-furniture-for-balconies-and-terraces/index.html",
         "type": "file",
-        "md5": "13668c1ca518cd8605a52fc4db075b89"
+        "md5": "1610d5d428380185c0f7476e61ec73b5"
     },
     {
         "path": "garden-benches-create-a-welcoming-outdoor-space-with-timeless-style",
@@ -212,7 +212,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "87ce435e245f6da5a34452448ebf1499"
+        "md5": "333bf12a69297b1eea0230af9e73c741"
     },
     {
         "path": "media",
@@ -865,6 +865,61 @@
         "md5": "85b9e4ab8cd69e6da0cfde01e9f82e3a"
     },
     {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-2026-10-23T003436.172-2.jpg",
+        "type": "file",
+        "md5": "4da04f5f374eddc51f71721a15ddf9fe"
+    },
+    {
+        "path": "/media/posts/22/images-2026-10-23T003440.460.jpg",
+        "type": "file",
+        "md5": "4d3eb30772ec251a2f2fa242eb5dc144"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003436.172-2-md.jpg",
+        "type": "file",
+        "md5": "29384ffdb0e32adb4f0bed8dcdfd9063"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003436.172-2-sm.jpg",
+        "type": "file",
+        "md5": "29384ffdb0e32adb4f0bed8dcdfd9063"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003436.172-2-xs.jpg",
+        "type": "file",
+        "md5": "ecfbab780b50b8b0cc99361064acabce"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-lg.jpg",
+        "type": "file",
+        "md5": "f76ab3e45417f642b203bb43e685c638"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-md.jpg",
+        "type": "file",
+        "md5": "f76ab3e45417f642b203bb43e685c638"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-sm.jpg",
+        "type": "file",
+        "md5": "2da968634fd5537cfff43f5d802330fb"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-10-23T003440.460-xs.jpg",
+        "type": "file",
+        "md5": "9c2aa360f33473d68a678595809a7ff1"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1252,7 +1307,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "6cc65fc11571e3061da0f7558edac89f"
+        "md5": "b7cf45217035338ec7f1aa05281079bf"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1262,7 +1317,17 @@
     {
         "path": "/potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "e4a8c9ee012ee44f856f3e6d429c4f46"
+        "md5": "298886baed4dccdccf5fdb8653bfa62e"
+    },
+    {
+        "path": "practical-and-stylish-solutions-for-balcony-and-terrace-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/practical-and-stylish-solutions-for-balcony-and-terrace-furniture/index.html",
+        "type": "file",
+        "md5": "2bd54c5084003b064cdb11858db54b1f"
     },
     {
         "path": "privacy-policy",
@@ -1282,7 +1347,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "256675a08df3e9bf4995ab61bc676836"
+        "md5": "24cb692e0c86e63a5aa92ecfa77896aa"
     },
     {
         "path": "sitemap.xsl",
@@ -1317,7 +1382,7 @@
     {
         "path": "/stylish-solutions-for-landscape-and-exterior-lighting/index.html",
         "type": "file",
-        "md5": "9cc990fed73488d5b6608d55217c66b4"
+        "md5": "16e65bbf0d89ce3e65ab6d27f5170da7"
     },
     {
         "path": "succulents-a-natural-touch-of-style-for-modern-indoor-houseplants",
@@ -1342,7 +1407,7 @@
     {
         "path": "/tags/balcony-and-terrace-furniture/index.html",
         "type": "file",
-        "md5": "64d87c1ca2ed93e0df885e0f17561e5b"
+        "md5": "6d25e209ec77cdbfb33a9d2948c961f2"
     },
     {
         "path": "tags/balcony-shelves",
@@ -1372,7 +1437,7 @@
     {
         "path": "/tags/folding-tables/index.html",
         "type": "file",
-        "md5": "8bd2d4bbc5d2692646b4bb74170c6a24"
+        "md5": "bbe9f78f78d9ce93f3dd4a564e4bb7ae"
     },
     {
         "path": "tags/garden-benches",
@@ -1407,7 +1472,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "527db7b7fa75ff2142e707589cbbf54a"
+        "md5": "3b827469f10d4d93d39640447fd85a5d"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -1547,7 +1612,7 @@
     {
         "path": "/transform-your-balcony-into-an-organized-and-beautiful-outdoor-space/index.html",
         "type": "file",
-        "md5": "a5b791961b0ec0601f2bd138bc382d9a"
+        "md5": "424c53a8d89f168cf3b5af6f562e127f"
     },
     {
         "path": "transform-your-garden-into-a-comfortable-outdoor-living-space",
@@ -1577,7 +1642,7 @@
     {
         "path": "/versatile-furniture-for-modern-balconies-and-terraces/index.html",
         "type": "file",
-        "md5": "851c5bc303b27c053cf5468cc3019df2"
+        "md5": "4ebce4b667c52427d1bdb77804d5e7e4"
     },
     {
         "path": "wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting",
@@ -1587,7 +1652,7 @@
     {
         "path": "/wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting/index.html",
         "type": "file",
-        "md5": "223529d042407811b576245d514f4132"
+        "md5": "6d31a970dfd023392194eb55a7c1e66c"
     },
     {
         "path": "weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area",
