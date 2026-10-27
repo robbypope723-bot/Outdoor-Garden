@@ -112,7 +112,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "c4b9e3fbf750b58ef96fdf7dbb6ed444"
+        "md5": "3b6c8823bbced76709b616caf36ece30"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "a133141223b879db703591eb2a6569e2"
+        "md5": "a7ab75b5b0b6f6ea6811a508dd311123"
     },
     {
         "path": "contact-us",
@@ -147,7 +147,7 @@
     {
         "path": "/create-a-relaxing-retreat-with-stylish-outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "c1557a3d7e8fc718c80803b0fa6e06ca"
+        "md5": "620e590dfd2db2ee11ffb1598c81c5ac"
     },
     {
         "path": "discover-elegant-greenery-for-modern-indoor-houseplants",
@@ -157,7 +157,7 @@
     {
         "path": "/discover-elegant-greenery-for-modern-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "fa6143646dfa2b409acb7a2847424572"
+        "md5": "9c8d4cf2932c52f560b8a3e05ffa2bf0"
     },
     {
         "path": "elegant-outdoor-furniture-for-balconies-and-terraces",
@@ -190,14 +190,24 @@
         "md5": "685e30caf13dc44c3495ddbb63c2fdfc"
     },
     {
+        "path": "enhance-your-outdoor-garden-seating-with-comfort-and-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-outdoor-garden-seating-with-comfort-and-style/index.html",
+        "type": "file",
+        "md5": "0004ead557da9230581130186512b40d"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "4d18dd2444bb34354fc52a7dc3e980e3"
+        "md5": "a45140766ac1554a22fd993b79302a2c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "be512c41e120a3e546e33d2eb26d0c4e"
+        "md5": "8fe0430443fe45bca02a5cc6f0554af7"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -217,12 +227,12 @@
     {
         "path": "/garden-benches-create-a-welcoming-outdoor-space-with-timeless-style/index.html",
         "type": "file",
-        "md5": "6bfa0954c5183dc2f3cc0b71da89efd4"
+        "md5": "326238a3aa80ab98dda7d71417b80c27"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f377942ea14f3c169935db8282b4ced2"
+        "md5": "7ab1f9312a4703177d1335af2a5137b9"
     },
     {
         "path": "media",
@@ -985,6 +995,61 @@
         "md5": "012c3e9c1e8ddf235d2cee5fdd93b312"
     },
     {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/images-2026-10-27T085056.171.jpg",
+        "type": "file",
+        "md5": "326501e5d71fd4b1767e74147e4ba0d0"
+    },
+    {
+        "path": "/media/posts/24/images-2026-10-27T085105.660.jpg",
+        "type": "file",
+        "md5": "e0eee032eb1cfa19ac9696573014e18d"
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085056.171-md.jpg",
+        "type": "file",
+        "md5": "dcba4fd64f97543d093e709068e8e250"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085056.171-sm.jpg",
+        "type": "file",
+        "md5": "1e3dbff6f51e201d47f5d5454ed56397"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085056.171-xs.jpg",
+        "type": "file",
+        "md5": "47887603118d25e5ce3aebc54b55393c"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085105.660-lg.jpg",
+        "type": "file",
+        "md5": "b4c90790ae4d666e43ecdd2e8440bd76"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085105.660-md.jpg",
+        "type": "file",
+        "md5": "b4c90790ae4d666e43ecdd2e8440bd76"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085105.660-sm.jpg",
+        "type": "file",
+        "md5": "1a8ab803859774afd2a8cae385bd7cd4"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-10-27T085105.660-xs.jpg",
+        "type": "file",
+        "md5": "c2de952fa06f679c8ba04760859f06d7"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1372,7 +1437,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "3d0dcd42e19da3e5593920931698b69c"
+        "md5": "4885228f351e7481398b7bed88528159"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "ea3a3d6409fdfd4dc9d289d41d547e5f"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1412,7 +1487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "17bdf0297a04bb45f040d339edc020db"
+        "md5": "73d82a9ed7e27b96266f798f07c1543d"
     },
     {
         "path": "sitemap.xsl",
@@ -1537,7 +1612,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fbaba8509216656afcdc9f32bdebc1ec"
+        "md5": "8528eb47e59b9bcf0b482daf80a9903e"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -1567,7 +1642,7 @@
     {
         "path": "/tags/outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "4ba9ebd97b4d755672b4bbc9a0197b7c"
+        "md5": "fe3d321fa01504fc67d5d557dff1abc6"
     },
     {
         "path": "tags/pathway-lights",
@@ -1647,7 +1722,7 @@
     {
         "path": "/tags/sun-loungers/index.html",
         "type": "file",
-        "md5": "78c79702b57db70cda13ade9fa964add"
+        "md5": "43a38e6c6d6d64645c7ea2b9083bbeea"
     },
     {
         "path": "tags/wall-sconces",
@@ -1687,7 +1762,7 @@
     {
         "path": "/transform-your-garden-into-a-comfortable-outdoor-living-space/index.html",
         "type": "file",
-        "md5": "3e89cd1dceb557a68c8ab63873b1e6d7"
+        "md5": "bd35247ef3e1ea896fe7cc0ca81c9118"
     },
     {
         "path": "transform-your-home-with-creative-indoor-houseplants-displays",
@@ -1727,6 +1802,6 @@
     {
         "path": "/weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area/index.html",
         "type": "file",
-        "md5": "0fa988b7140f094a2fbae15a7987807e"
+        "md5": "65a243c072cc571311f8f3018e0f723c"
     }
 ]
