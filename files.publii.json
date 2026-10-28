@@ -112,7 +112,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "3b6c8823bbced76709b616caf36ece30"
+        "md5": "6f307ba01108be3472e4e1c20990cc29"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "a7ab75b5b0b6f6ea6811a508dd311123"
+        "md5": "7ab9812ca1d29f38c8a3c8acf95a6acb"
     },
     {
         "path": "contact-us",
@@ -147,7 +147,7 @@
     {
         "path": "/create-a-relaxing-retreat-with-stylish-outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "620e590dfd2db2ee11ffb1598c81c5ac"
+        "md5": "31128e039288ea2161cc679daf0d8982"
     },
     {
         "path": "discover-elegant-greenery-for-modern-indoor-houseplants",
@@ -197,17 +197,17 @@
     {
         "path": "/enhance-your-outdoor-garden-seating-with-comfort-and-style/index.html",
         "type": "file",
-        "md5": "0004ead557da9230581130186512b40d"
+        "md5": "c7494a525ad4da6fc008c9b84d7bed42"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a45140766ac1554a22fd993b79302a2c"
+        "md5": "0371e2d7e8258fce8b8aed0b17d14c50"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8fe0430443fe45bca02a5cc6f0554af7"
+        "md5": "1f1fa83c255e7092a5f2c0f125a9066c"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -227,12 +227,12 @@
     {
         "path": "/garden-benches-create-a-welcoming-outdoor-space-with-timeless-style/index.html",
         "type": "file",
-        "md5": "326238a3aa80ab98dda7d71417b80c27"
+        "md5": "e9abfc163f4da7657e557a375ef5ed86"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7ab1f9312a4703177d1335af2a5137b9"
+        "md5": "6d08693be3153e90355aaa16e10682c6"
     },
     {
         "path": "media",
@@ -1050,6 +1050,61 @@
         "md5": "c2de952fa06f679c8ba04760859f06d7"
     },
     {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/images-2026-10-29T002757.921.jpg",
+        "type": "file",
+        "md5": "97bc90978f662d9dabdf2b4196db79dc"
+    },
+    {
+        "path": "/media/posts/25/images-2026-10-29T002803.613.jpg",
+        "type": "file",
+        "md5": "4704d029c70bd86d3584c0c4400cd831"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002757.921-md.jpg",
+        "type": "file",
+        "md5": "8be4728cf4be71a0f324d61e41e93d69"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002757.921-sm.jpg",
+        "type": "file",
+        "md5": "6f832d8e35d9466b44d127abb4cb122a"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002757.921-xs.jpg",
+        "type": "file",
+        "md5": "c4a434c3e2a97f44198960197367e2d0"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002803.613-lg.jpg",
+        "type": "file",
+        "md5": "b0be6c583d2a0f385c5da3587b80deba"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002803.613-md.jpg",
+        "type": "file",
+        "md5": "b0be6c583d2a0f385c5da3587b80deba"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002803.613-sm.jpg",
+        "type": "file",
+        "md5": "d6fb9b2ad32e38781e9fb01aba127f18"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-10-29T002803.613-xs.jpg",
+        "type": "file",
+        "md5": "a3e3ad1913355e0780759fc1df192e67"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1437,7 +1492,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "4885228f351e7481398b7bed88528159"
+        "md5": "afb06f785a3943d5eb60c2dcd01ee61c"
     },
     {
         "path": "page/3",
@@ -1447,7 +1502,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "ea3a3d6409fdfd4dc9d289d41d547e5f"
+        "md5": "5390b3ecc4847e27ac697e8935a3ad25"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1487,7 +1542,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "73d82a9ed7e27b96266f798f07c1543d"
+        "md5": "81e22359a3d92bfa56aa02f6542475f2"
     },
     {
         "path": "sitemap.xsl",
@@ -1612,7 +1667,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8528eb47e59b9bcf0b482daf80a9903e"
+        "md5": "63b4bcd785de5dc63d5b4c3dad5cc5aa"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -1642,7 +1697,7 @@
     {
         "path": "/tags/outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "fe3d321fa01504fc67d5d557dff1abc6"
+        "md5": "e663f07b38d598c06094fa38e632bc56"
     },
     {
         "path": "tags/pathway-lights",
@@ -1742,7 +1797,17 @@
     {
         "path": "/tags/weatherproof-sofas/index.html",
         "type": "file",
-        "md5": "8bf57b1e23ba12c54f1910c4df0107e5"
+        "md5": "70df077359edd5f97e09c1dcfd1645f4"
+    },
+    {
+        "path": "the-ultimate-choice-for-stylish-and-practical-outdoor-garden-seating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-ultimate-choice-for-stylish-and-practical-outdoor-garden-seating/index.html",
+        "type": "file",
+        "md5": "a16d2aabb052d64c2a0dd9dec36cdac0"
     },
     {
         "path": "transform-your-balcony-into-an-organized-and-beautiful-outdoor-space",
@@ -1762,7 +1827,7 @@
     {
         "path": "/transform-your-garden-into-a-comfortable-outdoor-living-space/index.html",
         "type": "file",
-        "md5": "bd35247ef3e1ea896fe7cc0ca81c9118"
+        "md5": "7afe43b7184b61b1a8a42f28699218fb"
     },
     {
         "path": "transform-your-home-with-creative-indoor-houseplants-displays",
@@ -1802,6 +1867,6 @@
     {
         "path": "/weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area/index.html",
         "type": "file",
-        "md5": "65a243c072cc571311f8f3018e0f723c"
+        "md5": "dc1c4607a177e440cfc5f52bf4aba3e3"
     }
 ]
