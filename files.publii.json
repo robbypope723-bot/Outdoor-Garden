@@ -112,7 +112,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "76586a2060093f34eeb39143cb711af7"
+        "md5": "7c059116ceadb1e482b4006711e7ad50"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "20b54d719e32cc3b6eb035e0a03b52ba"
+        "md5": "468c90d9db5499d72164309b497f0e8d"
     },
     {
         "path": "contact-us",
@@ -157,7 +157,7 @@
     {
         "path": "/creating-comfortable-and-stylish-outdoor-living-spaces/index.html",
         "type": "file",
-        "md5": "f99a40c2feb0e7af6238d030a05ae865"
+        "md5": "c254817e8ed27d560240621980614459"
     },
     {
         "path": "discover-elegant-greenery-for-modern-indoor-houseplants",
@@ -187,7 +187,7 @@
     {
         "path": "/elevate-your-outdoor-space-with-comfort-and-contemporary-style/index.html",
         "type": "file",
-        "md5": "193f2eaae67d6c19c9cbf674a3015fbc"
+        "md5": "54eec3e2029bbca2eccc083b54ce167c"
     },
     {
         "path": "enhance-your-garden-with-modern-landscape-and-exterior-lighting",
@@ -212,12 +212,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "c5929e1264281db0b9718911251271ab"
+        "md5": "130d56eab1c9e105be40e4d462092082"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fc25e4cf4906f13afcb3e6f34e6bfc9c"
+        "md5": "65f3a45cb6d6b35c532007564cf768dc"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -240,9 +240,19 @@
         "md5": "d0577aa21226766da38092c8dec009a0"
     },
     {
+        "path": "hanging-chairs-stylish-and-comfortable-seating-for-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hanging-chairs-stylish-and-comfortable-seating-for-modern-homes/index.html",
+        "type": "file",
+        "md5": "cc48c861e3c1f4d4f34ea98505bee4eb"
+    },
+    {
         "path": "index.html",
         "type": "file",
-        "md5": "4c80593447ef534bf9e30b9fd8bb82eb"
+        "md5": "4ac675717321671d4fdfc71ec3572bf2"
     },
     {
         "path": "media",
@@ -1170,6 +1180,61 @@
         "md5": "8f2fa343f6f7503f26056be8ea44f51c"
     },
     {
+        "path": "media/posts/27",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/images-6.jpg",
+        "type": "file",
+        "md5": "6f818c8bc76aa5544d603e26acbe7825"
+    },
+    {
+        "path": "/media/posts/27/images-7.jpg",
+        "type": "file",
+        "md5": "73ab5fe12970e20e888a4fc916c74dce"
+    },
+    {
+        "path": "media/posts/27/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/responsive/images-6-lg.jpg",
+        "type": "file",
+        "md5": "37765489d6efebafd43eb4093be316f6"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-6-md.jpg",
+        "type": "file",
+        "md5": "37765489d6efebafd43eb4093be316f6"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-6-sm.jpg",
+        "type": "file",
+        "md5": "37765489d6efebafd43eb4093be316f6"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-6-xs.jpg",
+        "type": "file",
+        "md5": "7eea3eae95f3708196c4c7477eb2b427"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-7-md.jpg",
+        "type": "file",
+        "md5": "b6c6b39fdfdb5c120854c417e2e062ec"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-7-sm.jpg",
+        "type": "file",
+        "md5": "9f6d150ac95feda32b2ee9cba8474182"
+    },
+    {
+        "path": "/media/posts/27/responsive/images-7-xs.jpg",
+        "type": "file",
+        "md5": "8bde550ca952d02a23a3515a062afd79"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1557,7 +1622,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "f60361e3e1040a82e51dccebdafb9424"
+        "md5": "49ff5040924a0b08ea23c3fe5c0e7f2e"
     },
     {
         "path": "page/3",
@@ -1567,7 +1632,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "89030174cde0c860c67452e152f452a3"
+        "md5": "5d577d71963458f5d60b84fc07853bfb"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1587,7 +1652,7 @@
     {
         "path": "/practical-and-stylish-solutions-for-balcony-and-terrace-furniture/index.html",
         "type": "file",
-        "md5": "ebccc824a19091414e2008fc38145065"
+        "md5": "efedcd6e251961a942802e10ea220510"
     },
     {
         "path": "privacy-policy",
@@ -1607,7 +1672,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "757cba2bb5ae9fda5be0b6033ed7b288"
+        "md5": "714888b4f66797bbe11b87ad218affc5"
     },
     {
         "path": "sitemap.xsl",
@@ -1667,7 +1732,7 @@
     {
         "path": "/tags/balcony-and-terrace-furniture/index.html",
         "type": "file",
-        "md5": "6d25e209ec77cdbfb33a9d2948c961f2"
+        "md5": "f15b04e24996a7d10988be817ba96bd4"
     },
     {
         "path": "tags/balcony-shelves",
@@ -1717,7 +1782,7 @@
     {
         "path": "/tags/hanging-chairs/index.html",
         "type": "file",
-        "md5": "92967540fb793cf7cbba38bac0651b80"
+        "md5": "182f7468ac11648c16e094bf48f8b14c"
     },
     {
         "path": "tags/hanging-planters",
@@ -1732,7 +1797,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "15b46f4358c8cb71b1011c6392e51cd8"
+        "md5": "d68e4e8f7f48c47b56683a87713d49e3"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -1912,7 +1977,7 @@
     {
         "path": "/versatile-furniture-for-modern-balconies-and-terraces/index.html",
         "type": "file",
-        "md5": "66bb6bb88bded25fe0cfe3ac64cc057d"
+        "md5": "5feb9c3eae7065f1d2fcf96860adcf62"
     },
     {
         "path": "wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting",
