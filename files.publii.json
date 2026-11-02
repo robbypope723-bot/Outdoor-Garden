@@ -5,6 +5,16 @@
         "md5": "8319a380a508f99a1f5029ed7d4439a2"
     },
     {
+        "path": "a-complete-guide-to-growing-styling-and-caring-for-this-beautiful-indoor-plant",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-complete-guide-to-growing-styling-and-caring-for-this-beautiful-indoor-plant/index.html",
+        "type": "file",
+        "md5": "1746585da1221871c632d1bc5727dd04"
+    },
+    {
         "path": "a-natural-way-to-refresh-your-home-with-indoor-houseplants",
         "type": "directory",
         "md5": false
@@ -12,7 +22,7 @@
     {
         "path": "/a-natural-way-to-refresh-your-home-with-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "e9ce25bec778e4fd82db080820a87d9d"
+        "md5": "c319abfd9c026b89bcc008ead83d62cd"
     },
     {
         "path": "about-us",
@@ -112,7 +122,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "7c059116ceadb1e482b4006711e7ad50"
+        "md5": "de01f1a143cc75fe2ef672d4bd40288e"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -127,7 +137,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "468c90d9db5499d72164309b497f0e8d"
+        "md5": "5f68e1bc77ec632f283364e890375f94"
     },
     {
         "path": "contact-us",
@@ -167,7 +177,7 @@
     {
         "path": "/discover-elegant-greenery-for-modern-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "9c8d4cf2932c52f560b8a3e05ffa2bf0"
+        "md5": "94baf9aea3af8041d334097083a2459a"
     },
     {
         "path": "elegant-outdoor-furniture-for-balconies-and-terraces",
@@ -212,12 +222,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "130d56eab1c9e105be40e4d462092082"
+        "md5": "e8f6b36b10e2cfad3e1553120c90bcdc"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "65f3a45cb6d6b35c532007564cf768dc"
+        "md5": "42a219927eb515e7f5021d0966123dc0"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -247,12 +257,12 @@
     {
         "path": "/hanging-chairs-stylish-and-comfortable-seating-for-modern-homes/index.html",
         "type": "file",
-        "md5": "cc48c861e3c1f4d4f34ea98505bee4eb"
+        "md5": "ea8955948af220c59261af19391da1b2"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4ac675717321671d4fdfc71ec3572bf2"
+        "md5": "83bbe37c9170fc369acf0a1b4460ea0a"
     },
     {
         "path": "media",
@@ -1235,6 +1245,61 @@
         "md5": "8bde550ca952d02a23a3515a062afd79"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/images-28.jpg",
+        "type": "file",
+        "md5": "a2ad07a00afccb8974d43d5777041103"
+    },
+    {
+        "path": "/media/posts/28/images-29.jpg",
+        "type": "file",
+        "md5": "844e5da424bdc43bb0b2b4994414ef77"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/images-28-md.jpg",
+        "type": "file",
+        "md5": "17727adb6aeac8a4a99aa7931a52c597"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-28-sm.jpg",
+        "type": "file",
+        "md5": "17727adb6aeac8a4a99aa7931a52c597"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-28-xs.jpg",
+        "type": "file",
+        "md5": "17727adb6aeac8a4a99aa7931a52c597"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-29-lg.jpg",
+        "type": "file",
+        "md5": "bb6e1ab6363fef3ab27279209513b19b"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-29-md.jpg",
+        "type": "file",
+        "md5": "bb6e1ab6363fef3ab27279209513b19b"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-29-sm.jpg",
+        "type": "file",
+        "md5": "bb6e1ab6363fef3ab27279209513b19b"
+    },
+    {
+        "path": "/media/posts/28/responsive/images-29-xs.jpg",
+        "type": "file",
+        "md5": "ab94d1c95aa174af4ccd1d56dcf69f5f"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1622,7 +1687,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "49ff5040924a0b08ea23c3fe5c0e7f2e"
+        "md5": "a5835ebf649a1a96f1d8fec96c564db6"
     },
     {
         "path": "page/3",
@@ -1632,7 +1697,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "5d577d71963458f5d60b84fc07853bfb"
+        "md5": "66db0083b347c0b4c9183e140a0a2b6c"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1642,7 +1707,7 @@
     {
         "path": "/potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "8f692a8a77d1d70bdfe9d4c3df199afc"
+        "md5": "8592544111c58600922d7dace0dd58af"
     },
     {
         "path": "practical-and-stylish-solutions-for-balcony-and-terrace-furniture",
@@ -1672,7 +1737,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "714888b4f66797bbe11b87ad218affc5"
+        "md5": "a58e04fa622486385ceca9247f86b111"
     },
     {
         "path": "sitemap.xsl",
@@ -1687,7 +1752,7 @@
     {
         "path": "/snake-plants-a-practical-guide-to-beautiful-and-resilient-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "29bf2b7174a996e47503a26c8d007edb"
+        "md5": "e5aa7da48268b0fa4bc6e41985bae066"
     },
     {
         "path": "string-lights-stylish-outdoor-illumination-for-every-landscape",
@@ -1717,7 +1782,7 @@
     {
         "path": "/succulents-a-natural-touch-of-style-for-modern-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "536b0520bdd8173752d20981a6764a54"
+        "md5": "e08ddc07e14c6aadbbe832d63d7d874d"
     },
     {
         "path": "tags",
@@ -1797,7 +1862,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d68e4e8f7f48c47b56683a87713d49e3"
+        "md5": "1fea48a5bbdda5c8e20809e7550a5296"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -1807,7 +1872,7 @@
     {
         "path": "/tags/indoor-houseplants/index.html",
         "type": "file",
-        "md5": "1f7ea46dce21800f97557f9a6f3eba8e"
+        "md5": "cfa5c95e8e340cd6578611c436c89368"
     },
     {
         "path": "tags/landscape-and-exterior-lighting",
@@ -1867,7 +1932,7 @@
     {
         "path": "/tags/snake-plants/index.html",
         "type": "file",
-        "md5": "2e11db242a90a0cd094d8559a0a5fc20"
+        "md5": "f0009b52258c0f46f3e3f0bebc591931"
     },
     {
         "path": "tags/solar-spotlights",
@@ -1967,7 +2032,7 @@
     {
         "path": "/transform-your-home-with-creative-indoor-houseplants-displays/index.html",
         "type": "file",
-        "md5": "3c543603c797f5a743e651821af51407"
+        "md5": "b962ca5e29bd6aaf7b17f489aaf1de00"
     },
     {
         "path": "versatile-furniture-for-modern-balconies-and-terraces",
