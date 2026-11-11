@@ -12,7 +12,7 @@
     {
         "path": "/a-complete-guide-to-growing-styling-and-caring-for-this-beautiful-indoor-plant/index.html",
         "type": "file",
-        "md5": "1746585da1221871c632d1bc5727dd04"
+        "md5": "bc48b9affa3e0b2c9bba71c3992031c1"
     },
     {
         "path": "a-natural-way-to-refresh-your-home-with-indoor-houseplants",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "de01f1a143cc75fe2ef672d4bd40288e"
+        "md5": "78bef789112810c2cc9c795bc8a0aca8"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "5f68e1bc77ec632f283364e890375f94"
+        "md5": "e19a26099a9b1c38001ffd1c2fff58ec"
     },
     {
         "path": "contact-us",
@@ -148,6 +148,16 @@
         "path": "/contact-us/index.html",
         "type": "file",
         "md5": "f22e7aee27b2a056e84b95df630ad30e"
+    },
+    {
+        "path": "create-a-relaxing-and-stylish-space-with-unique-seating-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/create-a-relaxing-and-stylish-space-with-unique-seating-designs/index.html",
+        "type": "file",
+        "md5": "e2990783d24e3bb69e8a8e7b97741044"
     },
     {
         "path": "create-a-relaxing-retreat-with-stylish-outdoor-garden-seating",
@@ -197,7 +207,7 @@
     {
         "path": "/elevate-your-outdoor-space-with-comfort-and-contemporary-style/index.html",
         "type": "file",
-        "md5": "54eec3e2029bbca2eccc083b54ce167c"
+        "md5": "a9eab6d427e6d8f4c15e96b7122a3cb0"
     },
     {
         "path": "enhance-your-garden-with-modern-landscape-and-exterior-lighting",
@@ -222,12 +232,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e8f6b36b10e2cfad3e1553120c90bcdc"
+        "md5": "f9be19a8415569da2400332b9f07ac88"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "42a219927eb515e7f5021d0966123dc0"
+        "md5": "08047d3cf8eb5cb2584c2fcfc08605a8"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -257,12 +267,12 @@
     {
         "path": "/hanging-chairs-stylish-and-comfortable-seating-for-modern-homes/index.html",
         "type": "file",
-        "md5": "ea8955948af220c59261af19391da1b2"
+        "md5": "69bae24d61ec1161a040d23adf8894a3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "83bbe37c9170fc369acf0a1b4460ea0a"
+        "md5": "7c9caa898979a1439c3ef9e1bc98c5d7"
     },
     {
         "path": "media",
@@ -1300,6 +1310,61 @@
         "md5": "ab94d1c95aa174af4ccd1d56dcf69f5f"
     },
     {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/images-2026-11-11T091953.470-2.jpg",
+        "type": "file",
+        "md5": "5bbdaa8021951846a4b0ae90ad96cd8e"
+    },
+    {
+        "path": "/media/posts/29/images-2026-11-11T092000.792.jpg",
+        "type": "file",
+        "md5": "e6e75b53b9206c77ca424b9137007ae4"
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T091953.470-2-md.jpg",
+        "type": "file",
+        "md5": "24cf2888b8425a124797d374f3dc9993"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T091953.470-2-sm.jpg",
+        "type": "file",
+        "md5": "24cf2888b8425a124797d374f3dc9993"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T091953.470-2-xs.jpg",
+        "type": "file",
+        "md5": "dcd6c851209a4dca7f203c0c2a9f136f"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T092000.792-lg.jpg",
+        "type": "file",
+        "md5": "5b1861887bad436635e1ed49566294b6"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T092000.792-md.jpg",
+        "type": "file",
+        "md5": "5b1861887bad436635e1ed49566294b6"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T092000.792-sm.jpg",
+        "type": "file",
+        "md5": "5b1861887bad436635e1ed49566294b6"
+    },
+    {
+        "path": "/media/posts/29/responsive/images-2026-11-11T092000.792-xs.jpg",
+        "type": "file",
+        "md5": "0055cfb94dc8bdb6e1acdace3ef812ad"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1687,7 +1752,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "a5835ebf649a1a96f1d8fec96c564db6"
+        "md5": "fadc3b219f9a8a767fe1814d7f6924c1"
     },
     {
         "path": "page/3",
@@ -1697,7 +1762,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "66db0083b347c0b4c9183e140a0a2b6c"
+        "md5": "8ec838f9c3bbbdb50dcb1e11154befa5"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1717,7 +1782,7 @@
     {
         "path": "/practical-and-stylish-solutions-for-balcony-and-terrace-furniture/index.html",
         "type": "file",
-        "md5": "efedcd6e251961a942802e10ea220510"
+        "md5": "402377ce54184a51d08b55cbd2ead68e"
     },
     {
         "path": "privacy-policy",
@@ -1737,7 +1802,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a58e04fa622486385ceca9247f86b111"
+        "md5": "82d91fdae08a96b9b7962c788933cd3f"
     },
     {
         "path": "sitemap.xsl",
@@ -1797,7 +1862,7 @@
     {
         "path": "/tags/balcony-and-terrace-furniture/index.html",
         "type": "file",
-        "md5": "f15b04e24996a7d10988be817ba96bd4"
+        "md5": "06e9b6ce9fe92e4cff9ea99d26b4a351"
     },
     {
         "path": "tags/balcony-shelves",
@@ -1847,7 +1912,7 @@
     {
         "path": "/tags/hanging-chairs/index.html",
         "type": "file",
-        "md5": "182f7468ac11648c16e094bf48f8b14c"
+        "md5": "e648f21953accf7a29a33ca5f1614330"
     },
     {
         "path": "tags/hanging-planters",
@@ -1862,7 +1927,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1fea48a5bbdda5c8e20809e7550a5296"
+        "md5": "4a5bcbbac3c8ae075940e829e73690c4"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -2012,7 +2077,7 @@
     {
         "path": "/transform-your-balcony-into-an-organized-and-beautiful-outdoor-space/index.html",
         "type": "file",
-        "md5": "424c53a8d89f168cf3b5af6f562e127f"
+        "md5": "790a760927a7b95c724305902441f9b4"
     },
     {
         "path": "transform-your-garden-into-a-comfortable-outdoor-living-space",
