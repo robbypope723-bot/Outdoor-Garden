@@ -22,7 +22,7 @@
     {
         "path": "/a-natural-way-to-refresh-your-home-with-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "c319abfd9c026b89bcc008ead83d62cd"
+        "md5": "2b1af6924da7bbf0593c147053b3f63f"
     },
     {
         "path": "about-us",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "7f107ef6e32a3c8754ecd9a4660f41a7"
+        "md5": "71f533c8c95251556759cb2f94d8a331"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -137,7 +137,17 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "55aead1ebdf41cfbdd47a78ef864af96"
+        "md5": "58fe9d24d0599aab2880bdbcc52bcac3"
+    },
+    {
+        "path": "bringing-natural-beauty-and-tropical-elegance-into-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bringing-natural-beauty-and-tropical-elegance-into-your-home/index.html",
+        "type": "file",
+        "md5": "45e874a32365efab6618defc69060c8d"
     },
     {
         "path": "contact-us",
@@ -177,7 +187,7 @@
     {
         "path": "/creating-a-stylish-and-comfortable-outdoor-living-space/index.html",
         "type": "file",
-        "md5": "9ff694eb3854e1f2cc7b46540389cb69"
+        "md5": "95f690043fd2bbaa02cb4e773a279065"
     },
     {
         "path": "creating-comfortable-and-stylish-outdoor-living-spaces",
@@ -242,12 +252,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5cef83c211a9a3cf87a263df59f7619a"
+        "md5": "f62fdf7c78b9494e57368047f62b82c1"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "624d1e4acdba0038cb7596d23ac50fc5"
+        "md5": "fcf2457c57ff4201fd613fb605f3c222"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -282,7 +292,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b463122508044c8211da666d4f5deec2"
+        "md5": "7e1771223d17b2295bef791e5cca19a5"
     },
     {
         "path": "media",
@@ -1430,6 +1440,61 @@
         "md5": "136290c940d6c6aa8ead6e5e10427385"
     },
     {
+        "path": "media/posts/31",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/images-2026-11-15T215646.230.jpg",
+        "type": "file",
+        "md5": "5cc072bcc394dc93e7d10b7bd31bf35d"
+    },
+    {
+        "path": "/media/posts/31/images-2026-11-15T215654.181.jpg",
+        "type": "file",
+        "md5": "337b342ff1dbc526470c29ca85e685dc"
+    },
+    {
+        "path": "media/posts/31/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215646.230-md.jpg",
+        "type": "file",
+        "md5": "0fb16222df5dfc7f8d7050404b6ef552"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215646.230-sm.jpg",
+        "type": "file",
+        "md5": "0fb16222df5dfc7f8d7050404b6ef552"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215646.230-xs.jpg",
+        "type": "file",
+        "md5": "bc99728b20c2aede911dcb78128db11b"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215654.181-lg.jpg",
+        "type": "file",
+        "md5": "31dd03ed6eb57b0fb7e618cb6df4661d"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215654.181-md.jpg",
+        "type": "file",
+        "md5": "31dd03ed6eb57b0fb7e618cb6df4661d"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215654.181-sm.jpg",
+        "type": "file",
+        "md5": "31dd03ed6eb57b0fb7e618cb6df4661d"
+    },
+    {
+        "path": "/media/posts/31/responsive/images-2026-11-15T215654.181-xs.jpg",
+        "type": "file",
+        "md5": "1ea8fbf521e2b23416202283f4999e79"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1817,7 +1882,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "f19c28bb5915b7e992d1f9abf6495ea5"
+        "md5": "db70aa017d83245be1ce047b69c96c65"
     },
     {
         "path": "page/3",
@@ -1827,7 +1892,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "fa035104684af464901f1635b26c0c53"
+        "md5": "96ad48cc1fcb80b4eed41cdb431e97e3"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1837,7 +1902,7 @@
     {
         "path": "/potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "8592544111c58600922d7dace0dd58af"
+        "md5": "a015b61c439775e90fa7a48f7149f531"
     },
     {
         "path": "practical-and-stylish-solutions-for-balcony-and-terrace-furniture",
@@ -1867,7 +1932,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "649074bb0b8cc17dc9b8480b6e0182c3"
+        "md5": "b5afdd841d940684e154c45490cb9d9a"
     },
     {
         "path": "sitemap.xsl",
@@ -1912,7 +1977,7 @@
     {
         "path": "/succulents-a-natural-touch-of-style-for-modern-indoor-houseplants/index.html",
         "type": "file",
-        "md5": "e08ddc07e14c6aadbbe832d63d7d874d"
+        "md5": "cc3987b52d7f1bcb475615b9b04cd089"
     },
     {
         "path": "tags",
@@ -1992,7 +2057,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "6347bb4c1696bfaccfb9ab2f9a74df43"
+        "md5": "3b4e9f7bed8db1a29b9578b37711b878"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -2002,7 +2067,7 @@
     {
         "path": "/tags/indoor-houseplants/index.html",
         "type": "file",
-        "md5": "cfa5c95e8e340cd6578611c436c89368"
+        "md5": "d85f7017ef2ec217bd342a8c861a140d"
     },
     {
         "path": "tags/landscape-and-exterior-lighting",
@@ -2042,7 +2107,7 @@
     {
         "path": "/tags/potted-palms/index.html",
         "type": "file",
-        "md5": "cc6194f5bef605dbef558574aaed48b4"
+        "md5": "54c193053d28c87dfdaf30acf166cc08"
     },
     {
         "path": "tags/rattan-sectionals",
@@ -2162,7 +2227,7 @@
     {
         "path": "/transform-your-home-with-creative-indoor-houseplants-displays/index.html",
         "type": "file",
-        "md5": "b962ca5e29bd6aaf7b17f489aaf1de00"
+        "md5": "db6f2fb2a72bc6fd557f1f6bb8744784"
     },
     {
         "path": "versatile-furniture-for-modern-balconies-and-terraces",
