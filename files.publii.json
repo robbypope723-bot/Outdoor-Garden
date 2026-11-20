@@ -122,7 +122,7 @@
     {
         "path": "/authors/jessica-j-sumner/index.html",
         "type": "file",
-        "md5": "71f533c8c95251556759cb2f94d8a331"
+        "md5": "50aa4c4be3d09fa6212a21e53b99a383"
     },
     {
         "path": "authors/jessica-j-sumner/page",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/jessica-j-sumner/page/2/index.html",
         "type": "file",
-        "md5": "58fe9d24d0599aab2880bdbcc52bcac3"
+        "md5": "2ccf4500c9560be1414a31b90ad6661f"
     },
     {
         "path": "bringing-natural-beauty-and-tropical-elegance-into-your-home",
@@ -147,7 +147,7 @@
     {
         "path": "/bringing-natural-beauty-and-tropical-elegance-into-your-home/index.html",
         "type": "file",
-        "md5": "45e874a32365efab6618defc69060c8d"
+        "md5": "091e92ca67190d9e5515b4147fb85a47"
     },
     {
         "path": "contact-us",
@@ -177,7 +177,7 @@
     {
         "path": "/create-a-relaxing-retreat-with-stylish-outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "5e9458c8486f183f3cf49ffe2ac40834"
+        "md5": "c2741ffff8e4bb6853279bf3269691fd"
     },
     {
         "path": "creating-a-stylish-and-comfortable-outdoor-living-space",
@@ -197,7 +197,7 @@
     {
         "path": "/creating-comfortable-and-stylish-outdoor-living-spaces/index.html",
         "type": "file",
-        "md5": "cc144d60dea9356c0951a740d554590a"
+        "md5": "12e4c4a9b3727fdb840b290514f0452e"
     },
     {
         "path": "discover-elegant-greenery-for-modern-indoor-houseplants",
@@ -230,6 +230,16 @@
         "md5": "a9eab6d427e6d8f4c15e96b7122a3cb0"
     },
     {
+        "path": "elevating-interior-design-with-decorative-and-functional-wall-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevating-interior-design-with-decorative-and-functional-wall-lighting/index.html",
+        "type": "file",
+        "md5": "bc53cd7d449ab5f8436f9c9c060379f2"
+    },
+    {
         "path": "enhance-your-garden-with-modern-landscape-and-exterior-lighting",
         "type": "directory",
         "md5": false
@@ -247,17 +257,17 @@
     {
         "path": "/enhance-your-outdoor-garden-seating-with-comfort-and-style/index.html",
         "type": "file",
-        "md5": "9a73cb4d7ba6d0e87cf4b99155d4b869"
+        "md5": "7c027440028d46bf9c85f0b568101e19"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f62fdf7c78b9494e57368047f62b82c1"
+        "md5": "e15f03761c1d40c29a6f0468b5831c8c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fcf2457c57ff4201fd613fb605f3c222"
+        "md5": "ee558cde52ea95d2103cb2777c50064d"
     },
     {
         "path": "folding-tables-smart-space-saving-furniture-for-balconies-and-terraces",
@@ -277,7 +287,7 @@
     {
         "path": "/garden-benches-create-a-welcoming-outdoor-space-with-timeless-style/index.html",
         "type": "file",
-        "md5": "d0577aa21226766da38092c8dec009a0"
+        "md5": "9bc6dbf9fc4b12bf33bed13a8753cbd1"
     },
     {
         "path": "hanging-chairs-stylish-and-comfortable-seating-for-modern-homes",
@@ -290,9 +300,19 @@
         "md5": "69bae24d61ec1161a040d23adf8894a3"
     },
     {
+        "path": "how-to-create-a-stylish-and-comfortable-outdoor-living-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-create-a-stylish-and-comfortable-outdoor-living-space/index.html",
+        "type": "file",
+        "md5": "4f70cff346e0d6bf5619a9a2f4411f27"
+    },
+    {
         "path": "index.html",
         "type": "file",
-        "md5": "7e1771223d17b2295bef791e5cca19a5"
+        "md5": "c4bb5f5064734104a2c11d0a313e4083"
     },
     {
         "path": "media",
@@ -1495,6 +1515,116 @@
         "md5": "1ea8fbf521e2b23416202283f4999e79"
     },
     {
+        "path": "media/posts/32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/images-2026-11-15T220415.761.jpg",
+        "type": "file",
+        "md5": "e960b6be415c6ff5544daee34df6c103"
+    },
+    {
+        "path": "/media/posts/32/images-2026-11-15T220426.583.jpg",
+        "type": "file",
+        "md5": "2c13e99b49ad5e6898537441319a2b43"
+    },
+    {
+        "path": "media/posts/32/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220415.761-md.jpg",
+        "type": "file",
+        "md5": "65c5c3008b469dd4a0818ad92bb1e77f"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220415.761-sm.jpg",
+        "type": "file",
+        "md5": "65c5c3008b469dd4a0818ad92bb1e77f"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220415.761-xs.jpg",
+        "type": "file",
+        "md5": "58e9e2ff68de6a1d56368f3f7b4523ef"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220426.583-lg.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220426.583-md.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220426.583-sm.jpg",
+        "type": "file",
+        "md5": "d2478f2c95011ced91b660547d62f220"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-15T220426.583-xs.jpg",
+        "type": "file",
+        "md5": "00f701af37a20c57e266937222c9ba9a"
+    },
+    {
+        "path": "media/posts/33",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/images-2026-11-20T225846.458-2.jpg",
+        "type": "file",
+        "md5": "a4f87bfd4afb52382255b5572e8a6c0a"
+    },
+    {
+        "path": "/media/posts/33/images-2026-11-20T225846.458.jpg",
+        "type": "file",
+        "md5": "a4f87bfd4afb52382255b5572e8a6c0a"
+    },
+    {
+        "path": "media/posts/33/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-2-md.jpg",
+        "type": "file",
+        "md5": "cb76e223382a0f15e9c7896fade55eae"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-2-sm.jpg",
+        "type": "file",
+        "md5": "66b4da6c775b9dea2c23d8dfd46e7329"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-2-xs.jpg",
+        "type": "file",
+        "md5": "5e2abf03efe6a91818907539707ccf1b"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-lg.jpg",
+        "type": "file",
+        "md5": "cb76e223382a0f15e9c7896fade55eae"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-md.jpg",
+        "type": "file",
+        "md5": "cb76e223382a0f15e9c7896fade55eae"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-sm.jpg",
+        "type": "file",
+        "md5": "66b4da6c775b9dea2c23d8dfd46e7329"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-20T225846.458-xs.jpg",
+        "type": "file",
+        "md5": "5e2abf03efe6a91818907539707ccf1b"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1882,7 +2012,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "db70aa017d83245be1ce047b69c96c65"
+        "md5": "57b1eb8ce6a563e444b92f0166212ff0"
     },
     {
         "path": "page/3",
@@ -1892,7 +2022,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "96ad48cc1fcb80b4eed41cdb431e97e3"
+        "md5": "a752bb3085c3a6d20aec92ec68976d29"
     },
     {
         "path": "potted-palms-elevate-your-interior-design-with-beautiful-indoor-houseplants",
@@ -1932,7 +2062,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b5afdd841d940684e154c45490cb9d9a"
+        "md5": "e764d37a904756e0cd517469e248afc7"
     },
     {
         "path": "sitemap.xsl",
@@ -1967,7 +2097,7 @@
     {
         "path": "/stylish-solutions-for-landscape-and-exterior-lighting/index.html",
         "type": "file",
-        "md5": "16e65bbf0d89ce3e65ab6d27f5170da7"
+        "md5": "f15a4b12eac4ba60a87b2f6079d11d7f"
     },
     {
         "path": "succulents-a-natural-touch-of-style-for-modern-indoor-houseplants",
@@ -2055,9 +2185,19 @@
         "md5": "5f247ad8401b54374aa254b3a8ae46ea"
     },
     {
+        "path": "tags/hidden-lighting-and-chandeliers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/hidden-lighting-and-chandeliers/index.html",
+        "type": "file",
+        "md5": "c0d81158d69c5a12ea347644d8239c13"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3b4e9f7bed8db1a29b9578b37711b878"
+        "md5": "8787153e039afd56884ca8f4b01c9056"
     },
     {
         "path": "tags/indoor-houseplants",
@@ -2087,7 +2227,7 @@
     {
         "path": "/tags/outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "beda95f251e0392be0f1a2da5242a6e9"
+        "md5": "114bbf6d924a3dff48a15a3dc4a5fc0b"
     },
     {
         "path": "tags/pathway-lights",
@@ -2117,7 +2257,7 @@
     {
         "path": "/tags/rattan-sectionals/index.html",
         "type": "file",
-        "md5": "951d7fc09467a27a9220ee40b016cafa"
+        "md5": "401a256b0abe27a0fad9048c7bc17df8"
     },
     {
         "path": "tags/snake-plants",
@@ -2138,6 +2278,16 @@
         "path": "/tags/solar-spotlights/index.html",
         "type": "file",
         "md5": "3964ed730601c469214d528f5c662a3d"
+    },
+    {
+        "path": "tags/statement-wall-sconces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/statement-wall-sconces/index.html",
+        "type": "file",
+        "md5": "841e7a4b6acd591de6f71e40035860e1"
     },
     {
         "path": "tags/string-lights",
@@ -2197,7 +2347,7 @@
     {
         "path": "/the-ultimate-choice-for-stylish-and-practical-outdoor-garden-seating/index.html",
         "type": "file",
-        "md5": "4ff833ddc7820495d44b777ca9f2914e"
+        "md5": "b3addf6f97f227f548789a3148260fcb"
     },
     {
         "path": "transform-your-balcony-into-an-organized-and-beautiful-outdoor-space",
@@ -2217,7 +2367,7 @@
     {
         "path": "/transform-your-garden-into-a-comfortable-outdoor-living-space/index.html",
         "type": "file",
-        "md5": "99823f60c58d4c5c45d8bb9adfc5694f"
+        "md5": "4446eb6eb9b6678b4efb37ebcd67a1af"
     },
     {
         "path": "transform-your-home-with-creative-indoor-houseplants-displays",
@@ -2247,7 +2397,7 @@
     {
         "path": "/wall-sconces-stylish-and-functional-solutions-for-landscape-and-exterior-lighting/index.html",
         "type": "file",
-        "md5": "6d31a970dfd023392194eb55a7c1e66c"
+        "md5": "899a0f1b2b6a8509f723508b7eee9c33"
     },
     {
         "path": "weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area",
@@ -2257,6 +2407,6 @@
     {
         "path": "/weatherproof-sofas-create-a-beautiful-and-durable-outdoor-garden-seating-area/index.html",
         "type": "file",
-        "md5": "856093dd7115b3b42ed5f4a24db57d73"
+        "md5": "aa7d698aaf84720b7dc068a2948138cf"
     }
 ]
